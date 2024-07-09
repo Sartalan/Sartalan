@@ -7,9 +7,7 @@
 </p>
 </h1>
 
-### Hello (｡◕‿◕｡)
-
-#### < My name is **Alan** and i'm from Argentina. /> 
+### Hello, my name is **Alan** (｡◕‿◕｡)
 
 Badge
 
