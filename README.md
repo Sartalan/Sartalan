@@ -18,7 +18,11 @@ Badge
 + Backend  => Nodejs; Express; Mongodb
 ### > Embedded Systems:
 + C && C++
-+ Arduino 
++ Arduino
+
+<p align="end">
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7521c59-9c6d-4e12-8627-6411b1388bfb/ddmgbwy-60b4b68a-ffd3-45e3-8772-545ca4ac1f17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NTIxYzU5LTljNmQtNGUxMi04NjI3LTY0MTFiMTM4OGJmYlwvZGRtZ2J3eS02MGI0YjY4YS1mZmQzLTQ1ZTMtODc3Mi01NDVjYTRhYzFmMTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CydiJa-HZAEy-jOX2Y67Oiuugi3POmBW1QISPhi3vrs">
+ </p>
 
 <!--
 **Sartalan/Sartalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
