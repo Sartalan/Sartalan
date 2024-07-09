@@ -11,7 +11,7 @@
 
 Badge
 
-## Skills
+### Skills
 ### > Web Developer:
 + HTML5, CSS3, Javascript && Typescript
 + Frontend => React; Tailwind
