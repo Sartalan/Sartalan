@@ -7,7 +7,20 @@
 </p>
 </h1>
 
+### Hello (｡◕‿◕｡)
 
+#### < My name is **Alan** and i'm from Argentina. /> 
+
+Badge
+
+## Skills
+### > Web Developer:
++ HTML5, CSS3, Javascript && Typescript
++ Frontend => React; Tailwind
++ Backend  => Nodejs; Express; Mongodb
+### > Embedded Systems:
++ C && C++
++ Arduino 
 
 <!--
 **Sartalan/Sartalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
