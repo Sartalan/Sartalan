@@ -8,7 +8,7 @@
 </h1>
 
 ### **Hi, I'm **Alan** (｡◕‿◕｡)**
-[![Linkedin: alanbarrera](https://img.shields.io/badge/-alanbarrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barrera-facundo/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: alanbarrera](https://img.shields.io/badge/-alanbarrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barrera-facundo/)](https://www.linkedin.com/in/alan-barrera-facundo/)
 
 
 <p align="end">
