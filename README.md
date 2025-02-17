@@ -8,6 +8,8 @@
 </h1>
 
 ### **Hi, I'm **Alan** (｡◕‿◕｡)**
+
+#### I'm an Electronic Technician with a passion for technology, currently studying Systems Career ^^
 [![Linkedin: alanbarrera](https://img.shields.io/badge/-alanbarrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-barrera-facundo/)](https://www.linkedin.com/in/alan-barrera-facundo/)
 [![GitHub Sartalan](https://img.shields.io/github/followers/sartalan?label=follow&style=social)](https://github.com/Sartalan)
 
